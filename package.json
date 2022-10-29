@@ -1,0 +1,16 @@
+{
+"name": "mbk168",
+"theme": "mbk168",
+"version": "6.4.2",
+"description": "mbk168 ทางเข้าหลักเว็บพนันเว็บตรง ไม่ผ่านเอเย่นต์ รับเงินเครดิตฟรี",
+"keywords": [
+"mbk168",
+"mbk168 เครดิตฟรี",
+"mbk168 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/mbk168",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
